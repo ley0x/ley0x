@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoroullois
 - 👀 I’m interested in informatic
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning web development with freeCodeCamp
 
 
 <!---
