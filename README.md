@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leoroullois
-- 📚 ESIEE Paris
+- 📚 I'm an engineering student at ESIEE Paris
 - 🖥️ Web development (HTML/CSS, JavaScript, jQuery, React...)
+- 🔒 CyberSecurity
 - 🚀 Crypto
 - ♟️ Chess
 
