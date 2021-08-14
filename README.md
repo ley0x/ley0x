@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @leoroullois
-- 👀 I’m interested in informatic
-- 🌱 I’m currently learning web development with freeCodeCamp
-
+- 📚 ESIEE Paris
+- 🖥️ Web development (HTML/CSS, JavaScript, jQuery, React...)
+- 🚀 Crypto
+- ♟️ Chess
 
 <!---
 leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
