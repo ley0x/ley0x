@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leoroullois
 - 📚 I'm an engineering student at ESIEE Paris
-- 🖥️ Web development (React, NodeJS, TypeScript...)
+- 🖥️ Web developer (ReactJS, TypeScript...)
 - 🔒 Interested in CyberSecurity
-- 🚀 In love with Crypto
+- 🚀 Interested with Crypto and Web3
 - ♟️ Playing Chess
 
 <!---
