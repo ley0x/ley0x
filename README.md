@@ -11,13 +11,15 @@
 	&nbsp;
 </p>
 <h2 align="center">About me 😇</h2>
+
 - 📚 I'm an engineering student at ESIEE Paris
 <br>
-- 🖥️ Front-end developer (ReactJS, TypeScript...)
+- 🖥️ Front-end developer (React, Next, TypeScript...)
 <br>
 - 🔒 Interested in CyberSecurity
 <br>
 - 🚀 Interested with Crypto and Web3
+
 <br>
 <p>
 <h2 align="center"> Languages and Tools</h2>
