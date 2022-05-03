@@ -34,7 +34,17 @@
 	<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react.js" width="40" height="40"/> 
+</a>
+
+</a>
+<a href="https://nextjs.org/" target="_blank">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="40" height="40"/> 
+</a>
+
+<a href="https://graphql.org/" target="_blank">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png?20161105194737" alt="GraphQL" width="40" height="40"/> 
+</a>
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
