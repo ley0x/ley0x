@@ -5,8 +5,8 @@
 	<a href="https://www.leoroullois.fr" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-leoroullois.fr-brightgreen" alt="Portfolio" />
 	</a>
-	<a href="https://www.leoroullois.fr" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-%400xLEY0-blue" alt="Twitter" />
+	<a href="https://twitter.com/leoroullois" target="_blank">
+		<img src="https://img.shields.io/badge/Twitter-%40leoroullois-blue" alt="Twitter" />
 	</a>
 	&nbsp;
 </p>
@@ -39,7 +39,7 @@
 
 </a>
 <a href="https://nextjs.org/" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="40" height="40"/> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="60" height="40"/> 
 </a>
 
 <a href="https://graphql.org/" target="_blank">
@@ -48,8 +48,8 @@
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" width="400" />
 </p>
 <!---
 leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
