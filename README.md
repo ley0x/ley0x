@@ -12,11 +12,15 @@
 </p>
 <h2 align="center">About me 😇</h2>
 <br>
-
+<p>
+	
 - 📚 I'm an engineering student at ESIEE Paris
 - 🖥️ Front-end developer (React, Next, TypeScript...)
 - 🔒 Interested in CyberSecurity
 - 🚀 Interested with Crypto and Web3
+
+</p>
+
 
 <p>
 <h2 align="center"> Languages and Tools</h2>
@@ -48,8 +52,11 @@
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" width="400" />
+	<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" height="200"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" height="200" />
+</p>
+<p align="center">
+	<a href="https://app.daily.dev/Leyo"><img src="https://api.daily.dev/devcards/f478ba3516404ff8821f7b3b4081965c.png?r=bpc" width="250" alt="Léo Roullois's Dev Card"/></a>
 </p>
 <!---
 leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
