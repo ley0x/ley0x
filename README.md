@@ -52,11 +52,18 @@
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" height="200"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" height="200" />
+	<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" height="150" />
 </p>
+
+## Daily dev
 <p align="center">
 	<a href="https://app.daily.dev/Leyo"><img src="https://api.daily.dev/devcards/f478ba3516404ff8821f7b3b4081965c.png?r=bpc" width="250" alt="Léo Roullois's Dev Card"/></a>
+</p>
+
+## Number of visit here
+<p align="center">	
+	<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leoroullois&repo=leoroullois&countColorcountColor&countColor=%FFFFFF"/> 
 </p>
 <!---
 leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
