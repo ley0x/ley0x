@@ -2,8 +2,8 @@
 	<h1 align="center">👋 Hi there, I'm Léo!</h1>
 </p>
 <p align="center">
-	<a href="https://www.leoroullois.fr" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio-leoroullois.fr-brightgreen" alt="Portfolio" />
+	<a href="https://www.leoroullois.com" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-leoroullois.com-brightgreen" alt="Portfolio" />
 	</a>
 	<a href="https://twitter.com/leoroullois" target="_blank">
 		<img src="https://img.shields.io/badge/Twitter-%40leoroullois-blue" alt="Twitter" />
