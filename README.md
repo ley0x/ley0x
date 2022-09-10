@@ -16,7 +16,7 @@
 	
 - 📚 I'm an engineering student at ESIEE Paris
 - 🖥️ FullStack developer (React, Next.js, TypeScript...)
-- 🔒 Interested in CyberSecurity
+- 🔒 Learning CyberSecurity
 - 🚀 Interested with Crypto and Web3
 
 </p>
