@@ -49,6 +49,9 @@
 <a href="https://graphql.org/" target="_blank">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png?20161105194737" alt="GraphQL" width="40" height="40"/> 
 </a>
+<a href="https://www.docker.com/" target="_blank">
+	<img src="https://www.svgrepo.com/show/373557/docker2.svg" alt="Docker" width="50" height="40"/> 
+</a>
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
