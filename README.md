@@ -17,7 +17,7 @@
 - 📚 I'm an engineering student at ESIEE Paris
 - 🖥️ FullStack developer (React, Next.js, TypeScript...)
 - 🔒 Learning CyberSecurity
-- 🚀 Interested with Crypto and Web3
+- 🚀 Root-me, TryHackMe, OZINT...
 
 </p>
 
@@ -56,7 +56,7 @@
 <br />
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" height="150"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark&exclude_repo=fcc-headerparser,fcc-timestamp,fcc-urlshortener,fcc-exercisetracker,fcc-filemetadata,Projet-Zuul,jaicomprismaths,leoroullois.github.io" height="150" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ## Daily dev
