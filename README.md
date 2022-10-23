@@ -1,6 +1,7 @@
 <p>
 	<h1 align="center">👋 Hi there, I'm Léo!</h1>
 </p>
+
 <p align="center">
 	<a href="https://www.leoroullois.com" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-leoroullois.com-brightgreen" alt="Portfolio" />
@@ -18,6 +19,8 @@
 - 🖥️ FullStack developer (React, Next.js, TypeScript...)
 - 🔒 Learning CyberSecurity
 - 🚀 Root-me, TryHackMe, OZINT...
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Leyo.png" alt="TryHackMe">
 
 </p>
 
