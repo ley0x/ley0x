@@ -11,6 +11,8 @@
 	</a>
 	&nbsp;
 </p>
+
+
 <h2 align="center">About me 😇</h2>
 <br>
 <p>
@@ -19,6 +21,7 @@
 - 🖥️ FullStack developer (React, Next.js, TypeScript...)
 - 🔒 Learning CyberSecurity
 - 🚀 Root-me, TryHackMe, OZINT...
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Leyo.png" alt="TryHackMe">
 
@@ -68,9 +71,8 @@
 </p>
 
 ## Number of visit here
-<p align="center">	
-	<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leoroullois&repo=leoroullois&countColorcountColor&countColor=%FFFFFF"/> 
-</p>
+	
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoroullois&label=Profile%20views&color=0e75b6&style=flat" alt="leoroullois" /> </p>
 <!---
 leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
