@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-	<a href="https://www.leoroullois.com" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio-leoroullois.com-brightgreen" alt="Portfolio" />
+	<a href="https://blog.ley0x.me" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-blog.ley0x.me-brightgreen" alt="Portfolio" />
 	</a>
-	<a href="https://twitter.com/leoroullois" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-%40leoroullois-blue" alt="Twitter" />
+	<a href="https://x.com/ley0x_" target="_blank">
+		<img src="https://img.shields.io/badge/Twitter-%40ley0x__-blue" alt="X" />
 	</a>
 	&nbsp;
 </p>
