@@ -3,13 +3,16 @@
 </p>
 
 <p align="center">
+	 <a href="https://www.linkedin.com/in/leoroullois/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-Léo R._-blue" alt="X" />
+	</a>
 	<a href="https://blog.ley0x.me" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio-blog.ley0x.me-brightgreen" alt="Portfolio" />
+		<img src="https://img.shields.io/badge/Blog-blog.ley0x.me-brightgreen" alt="Blog" />
 	</a>
 	<a href="https://x.com/ley0x_" target="_blank">
 		<img src="https://img.shields.io/badge/Twitter-%40ley0x__-blue" alt="X" />
 	</a>
-	&nbsp;
+
 </p>
 
 
@@ -17,19 +20,16 @@
 <br>
 <p>
 	
-- 📚 I'm an engineering student at ESIEE Paris
-- 🖥️ FullStack developer (React, Next.js, TypeScript...)
-- 🔒 Learning CyberSecurity
-- 🚀 Root-me, TryHackMe, OZINT...
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Leyo.png" alt="TryHackMe">
+- 📚 I'm an ESIEE Paris engineer
+- 🖥️ FullStack web developer (React, Next.js, TypeScript...)
+- 🔒 Specialized in CyberSecurity, pentests and bug bounty hunting
+- 🚀 Root-me, HackTheBox, TryHackMe...
 
 </p>
 
 
 <p>
-<h2 align="center"> Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 </p>
 <br />
 
@@ -61,19 +61,14 @@
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=leoroullois&theme=github_dark&show_icons=true" height="150"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoroullois&layout=compact&theme=github_dark" height="150" />
-</p>
-
-## Daily dev
-<p align="center">
-	<a href="https://app.daily.dev/Leyo"><img src="https://api.daily.dev/devcards/f478ba3516404ff8821f7b3b4081965c.png?r=bpc" width="250" alt="Léo Roullois's Dev Card"/></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=ley0x&theme=github_dark&show_icons=true" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ley0x&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ## Number of visit here
 	
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoroullois&label=Profile%20views&color=0e75b6&style=flat" alt="leoroullois" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ley0x&label=Profile%20views&color=0e75b6&style=flat" alt="ley0x" /> </p>
 <!---
-leoroullois/leoroullois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ley0x/ley0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
