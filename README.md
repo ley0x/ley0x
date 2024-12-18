@@ -20,44 +20,15 @@
 <br>
 <p>
 	
-- 📚 I'm an ESIEE Paris engineer
-- 🖥️ FullStack web developer (React, Next.js, TypeScript...)
-- 🔒 Specialized in CyberSecurity, pentests and bug bounty hunting
+- 🖥️ System Administrator, bug bounty hunting
+- 🔒 CBBH, soon BSCP
 - 🚀 Root-me, HackTheBox, TryHackMe...
 
 </p>
 
 
 <p>
-<h2 align="center">Languages and Tools</h2>
-</p>
-<br />
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-	<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react.js" width="40" height="40"/> 
-</a>
-
-</a>
-<a href="https://nextjs.org/" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next.js" width="60" height="40"/> 
-</a>
-
-<a href="https://graphql.org/" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png?20161105194737" alt="GraphQL" width="40" height="40"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank">
-	<img src="https://www.svgrepo.com/show/373557/docker2.svg" alt="Docker" width="50" height="40"/> 
-</a>
 <h2 align="center">GitHub Stats<h2>
 <br />
 <p align="center">
